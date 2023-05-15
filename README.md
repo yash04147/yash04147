@@ -1,49 +1,41 @@
-
-<h1 align="center">Hi 👋, I'm Yashendra Pratap Singh</h1>
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash04147&label=Profile%20views&color=0e75b6&style=flat" alt="yash04147" /> </p> -->
-
-- 🌱 I’m currently learning **Backend framework Nodejs and MySQL database**
-
-- 👨‍💻 All of my projects are available at [https://github.com/yash04147](https://github.com/yash04147)
-
-- 💬 Ask me about **Data Structures,React.Js**
-
-- 📫 How to reach me **yash04147@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/17IFM6vQwBFiburNXIEIK2gD4RdlhWNkA/view?usp=sharing](https://drive.google.com/file/d/17IFM6vQwBFiburNXIEIK2gD4RdlhWNkA/view?usp=sharing)
-
-- ⚡ Fun fact **I am a reader & frequent traveller**
-
+### Hi there 👋
+- 👨🏻‍💻 I'm Yashendra Pratap Singh
+- A passionate Frontend developer from India
+- 👨‍🎓 I'm currently student at [GLBITM](https://www.glbitm.org/)
+- 🌱 I’m currently learning React.js
+- 🔭 I’m currently working on News app using react.js which use newaspi to fetch news articles
+- 💬 Ask me about Data Structures
+- 📫 How to reach me: [yash](https://wa.me/7011996944)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/17IFM6vQwBFiburNXIEIK2gD4RdlhWNkA/view?usp=sharing)
+- ⚡ Fun fact *I am a reader & frequent traveller*
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
-
 <a href="https://linkedin.com/in/yash04147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash04147" height="30" width="40" /></a>
-
 <a href="https://instagram.com/yash04147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash04147" height="30" width="40" /></a>
-
 <a href="https://www.codechef.com/users/yash04147" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yash04147" height="30" width="40" /></a>
-
 <a href="https://codeforces.com/profile/yash04147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yash04147" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/yash04147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash04147" height="30" width="40" /></a>
-
 <a href="https://auth.geeksforgeeks.org/user/yash04147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yash04147" height="30" width="40" /></a>
-
 </p>
+---
+### :hammer_and_wrench: Languages and Tools :
 
-<h3 align="left">Languages and Tools:</h3>
+| Language | HTML | CSS3 | Sass | Bootstrap | JavaScript | React.js | Redux | Typescript | Node.js | NPM  | Yarn |
+| ------ | ------ | ------- | ------ | ------ | ----- | ----- | ----- | ----- | --- | ---- | --- |
+| Icon | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>  | <img  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3"  width="40" height="40"/> | <img  src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="Sass" width="40" height="40"/>| <img  src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" />| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40" height="40" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40" /> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" width="40" height="40"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" height="40" /> |  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" width="40" height="40" />  |
+| % |   80%  | 70% | 70% | 50% | 80% | 60% | 50% | 40% | 20% | 65% | 20% | 
 
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash04147&show_icons=true&locale=en&layout=compact" alt="yash04147" /></p>
+### Other tools
+| <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40" />| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" />|       <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="40" height="40" />| <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="40" height="40" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" width="40" height="40" />| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40" />
+|----| -----| ---| --- | --- | --- |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash04147&show_icons=true&locale=en" alt="yash04147" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash04147&" alt="yash04147" /></p>
+---
+### Github Stats
+![Yashendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash04147&show_icons=true&theme=midnight-purple) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yash04147&theme=midnight-purple)](https://git.io/streak-stats) 
+---
+### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash04147&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
